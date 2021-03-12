@@ -31,7 +31,7 @@
       >
         <h2 class="headline font-weight-bold mb-3">
           What's next?
-        </h2> //asdas
+        </h2>
 
         <v-row justify="center">
           <a
